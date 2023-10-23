@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="http://www.longxw.top/"></iframe>
+<canvas><canvas>
