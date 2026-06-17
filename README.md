@@ -17,6 +17,13 @@
   <code>&gt; now learning · ai-agents · applied ai · llm orchestration</code>
 </p>
 
+<!-- ===== LAUNCH INTERACTIVE VERSION ===== -->
+<p align="center">
+  <a href="https://longyi-xw.github.io/longyi-xw/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-39d353?style=for-the-badge&labelColor=010409&logo=gnometerminal&logoColor=010409" alt="launch interactive terminal" />
+  </a>
+</p>
+
 <!-- ===== MANIFESTO ===== -->
 <h2 align="center">THE WORLD MOVES FORWARD</h2>
 <p align="center"><sub>世 界 是 向 前 的 — keep shipping, keep learning.</sub></p>
@@ -45,8 +52,8 @@
 ### `// telemetry`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi-xw&show_icons=true&count_private=true&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi-xw&layout=compact&langs_count=6&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi-xw&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&bg_color=010409&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi-xw&layout=compact&langs_count=6&hide=html,vue&hide_border=true&bg_color=010409&title_color=39d353&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
@@ -54,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=longyi-xw&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=longyi-xw&theme=matrix&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </p>
 
 <!-- ===== CONTRIBUTION SNAKE (needs the Action in GITHUB-SETUP.md) ===== -->
@@ -85,7 +92,7 @@
 ### `// fortune | today`
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=010409&borderColor=143020&textColor=c9d1d9&qColor=39d353&aColor=3fb950" alt="random dev joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="random dev joke" />
 </p>
 
 <p align="center"><sub><code>[ connection secure ] · built with caffeine &amp; curiosity</code></sub></p>
